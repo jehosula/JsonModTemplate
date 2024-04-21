@@ -1,0 +1,27 @@
+{
+  "name": "sand drill",
+  "description": "A larger cliff crusher, requires water",
+  "type": "WallCrafter",
+  "hasPower": true,
+  "hasLiquids": true,
+  "liquidCapacity": 80,
+  "consumes": {
+    "power": 2,
+    "liquids": [
+      "water/0.1"
+    ]
+  },
+  "output": "sand",
+  "attribute": "sand",
+  "size": 2,
+  "tier": 4,
+  "drillTime": 30,
+  "requirements": [
+    "silicon/180",
+    "beryllium/180",
+    "surge-alloy/5",
+    "oxide/15"
+  ],
+  "category": "production",
+  "research": "cliff-crusher"
+}
