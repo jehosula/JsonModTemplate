@@ -1,3 +1,4 @@
+type: Block
 {
     "name": "Cliff Quarry stolen",
     "description": "A stolen cliff crusher, requires water",
