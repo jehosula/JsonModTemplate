@@ -1,0 +1,10 @@
+// the name of the mod that the programs use (i think it needs to be lowercase and without spaces)
+name:
+// the name of the mod thats displayed in the browser
+displayName:
+description:
+author:
+// the version of the mod, Idk what you would use this for cuz i havent seen this number display anywhere
+version: 1.0
+// the minimum mindustry version for this mod
+minGameVersion: 145
