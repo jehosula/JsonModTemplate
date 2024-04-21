@@ -1,6 +1,6 @@
 {
-    "name": "Cliff Quarry",
-    "description": "A larger cliff crusher, requires water",
+    "name": "Cliff Quarry stolen",
+    "description": "A stolen cliff crusher, requires water",
     "type": "WallCrafter",
     "hasPower": true,
     "hasLiquids": true,
