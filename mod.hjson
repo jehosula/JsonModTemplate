@@ -1,9 +1,9 @@
 // the name of the mod that the programs use (i think it needs to be lowercase and without spaces)
-name:
+name:idk1
 // the name of the mod thats displayed in the browser
-displayName:
-description:
-author:
+displayName:idk1
+description:my first mod, it's designed to try to get the hang of modding
+author:jehosula
 // the version of the mod, Idk what you would use this for cuz i havent seen this number display anywhere
 version: 1.0
 // the minimum mindustry version for this mod
